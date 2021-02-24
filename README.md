@@ -1,2 +1,6 @@
 # noControl-api
-NoControl application backend.
+NoControl application backend. \
+
+****
+**ARCHITECTURE**
+` `
