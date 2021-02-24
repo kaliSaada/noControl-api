@@ -1,0 +1,8 @@
+{
+  "name": "nocontrol-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kaliSaada/noControl-api.git",
+  "author": "kaliSaada <khalil062010@gmail.com>",
+  "license": "MIT"
+}
