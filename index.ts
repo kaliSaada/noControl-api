@@ -1,8 +1,11 @@
 import express from 'express';
+import morgan from 'morgan'
 
 const app = express();
 
-const PORT = 8000;
+const PORT = 3000;
+
+app.use(morgan('combined'))
 
 app.get('/', (req, res) => res.send('Test'));
 
