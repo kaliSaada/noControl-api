@@ -10,6 +10,7 @@ dist
 
 # yarn
 yarn.lock
+yarn-error.log
 
 # npm
 package-lock.json
