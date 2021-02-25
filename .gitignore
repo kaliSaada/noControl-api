@@ -6,3 +6,10 @@ node_modules
 
 #build of typeScript
 build
+dist
+
+# yarn
+yarn.lock
+
+# npm
+package-lock.json
