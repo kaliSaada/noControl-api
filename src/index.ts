@@ -5,8 +5,7 @@ const app = express()
 
 const PORT = 3000
 
-app.use(
-  morgan('combined'))
+app.use(morgan('combined'))
 
 app.get('/', (req, res) => res.send('Test'))
 

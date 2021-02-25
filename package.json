@@ -6,10 +6,10 @@
   "author": "kaliSaada <khalil062010@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "nodemon index.ts",
+    "dev": "nodemon src/index.ts",
     "build": "tsc --project ./",
     "postinstall": "husky install",
-    "pre-commit": "eslint index.ts --fix"
+    "pre-commit": "eslint src/**"
   },
   "dependencies": {
     "@types/morgan": "^1.9.2",
